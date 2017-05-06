@@ -1,0 +1,10 @@
+[package]
+
+name = "rusty_random"
+description = "A simple guessing game"
+version = "0.0.1"
+authors = [ "Belen Curcio <curciobelen@gmail.com>" ]
+
+[dependencies]
+
+rand="0.3.0"
